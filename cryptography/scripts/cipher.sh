@@ -19,7 +19,7 @@
 #
 # Script version
 #
-version=2022.10.01-00;
+version="v22.1.0.0";
 
 #
 # Show usage
