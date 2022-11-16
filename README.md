@@ -8,8 +8,15 @@ Share useful shell scripts for automation tasks or knowledge base transfer.
 - [GNU Private Guard (GPG) method](cryptography/gpg_method.md)
 - [Open Secure Socket Layer (OpenSSL) method](cryptography/openssl_method.md)
 
+## Arguments
+- [Dynamic options](arguments/dynamic_options.md)
+- [Arguments with getopts](arguments/getopts.md)
+- [Interactive menu](arguments/interactive_menu.md)
+
+
 ## Strings
 - [Displaying a simple header](strings/README.md)
+
 
 ## Scripts
 | Name | Description | Category |
