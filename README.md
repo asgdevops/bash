@@ -34,7 +34,7 @@ Share useful shell scripts for automation tasks or knowledge base transfer.
 - :link: [Encrypting and Decrypting Files in Linux](https://www.baeldung.com/linux/encrypt-decrypt-files) by [Mohan Sundararaju](https://www.baeldung.com/linux/author/mohan-sundararaju).
 
 ## General BASH Scripting
-= :link: [Bash scripting cheatsheet](https://devhints.io/bash)
+- :link: [Bash scripting cheatsheet](https://devhints.io/bash)
 
 ## MacOS
 - :link: [Homebrew Formulae](https://formulae.brew.sh/formula/gnupg)
