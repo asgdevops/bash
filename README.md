@@ -1,7 +1,8 @@
 # :notebook: Bourne Again Shell (BASH) Project Portfolio
 
 ## Goal
-Share useful shell scripts for automation tasks or knowledge base transfer.
+- Share shell scripts for automation tasks or knowledge base transfer.
+- Have a basic knolwedge base about Linux common topics. 
 
 # :bookmark_tabs: Table of contents
 ## Criptography
@@ -13,11 +14,17 @@ Share useful shell scripts for automation tasks or knowledge base transfer.
 - [Arguments with getopts](arguments/getopts.md)
 - [Interactive menu](arguments/interactive_menu.md)
 
+## Bash startup files
+- [Bash Startup files](environment_variables/environment_variables.md)
+
 ## Environment variables
 - [Environment variables](environment_variables/environment_variables.md)
 
 ## Strings
 - [Displaying a simple header](strings/README.md)
+
+## User management
+- [User management](user_management/user_management.md)
 
 ## Scripts
 | Name | Description | Category |
