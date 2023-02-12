@@ -13,10 +13,11 @@ Share useful shell scripts for automation tasks or knowledge base transfer.
 - [Arguments with getopts](arguments/getopts.md)
 - [Interactive menu](arguments/interactive_menu.md)
 
+## Environment variables
+- [Environment variables](environment_variables/environment_variables.md)
 
 ## Strings
 - [Displaying a simple header](strings/README.md)
-
 
 ## Scripts
 | Name | Description | Category |
