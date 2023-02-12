@@ -82,6 +82,4 @@ The [Bash startup files](../bash_startup_files/bash_startup_files.md) execute wh
     hello
     ```
 
-# References
-
    
