@@ -27,7 +27,7 @@
 - [User management](user_management/user_management.md)
 
 ## SSH Server
-- [SSH Serve](ssh_server/ssh_server.md)
+- [SSH Server](ssh_server/ssh_server.md)
 
 ## Scripts
 | Name | Description | Category |
